@@ -5,6 +5,7 @@
 - [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
 - [Eric J](https://github.com//EricJB77)
+- [Aashutosh Anand](https://github.com/ashuanand1995)
 - [Tushar Kumawat](https://github.com/tusharkumawat)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [Genesis Schaerrer](https://github.com/genesisschaerrer)
